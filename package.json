@@ -23,7 +23,7 @@
     "react-icons": "^5.2.1",
     "react-router-dom": "^6.26.0",
     "react-toastify": "^10.0.5",
-    "rsuite": "^5.65.0",
+    "rsuite": "^5.73.0",
     "styled-components": "^6.1.11"
   },
   "devDependencies": {
